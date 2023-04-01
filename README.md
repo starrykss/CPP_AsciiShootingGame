@@ -12,7 +12,7 @@
 - `[Space]`를 누르면 미사일(`†`)이 발사된다.
 
 ### 프로그램 실행 방법
-- Visual Studio 에 **[SDL](https://github.com/libsdl-org/SDL/releases)** 라이브러리 연동
+- Visual Studio 에 **[SDL 라이브러리](https://github.com/libsdl-org/SDL/releases)** 연동
 
 ### 실행 화면
 
