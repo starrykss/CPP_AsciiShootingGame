@@ -14,5 +14,4 @@
 
 ### 실행 화면
 
-![실행 화면](picture1.png)
 ![실행 화면](picture2.gif)
